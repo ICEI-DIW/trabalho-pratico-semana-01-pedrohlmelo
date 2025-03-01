@@ -3,11 +3,13 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Pedro Henrique Lopes De Melo
+Matricula: 889841
 
 ## Tela de inspeção com navegador
+<img width="1199" alt="Captura de Tela 2025-03-01 às 16 18 51" src="https://github.com/user-attachments/assets/a3b8799a-8bc0-43a5-89c1-e878790f1900" />
 
 
 ## Tela de projeto no Replit
+<img width="1195" alt="Captura de Tela 2025-03-01 às 16 19 41" src="https://github.com/user-attachments/assets/48645b72-c4ea-4d01-985e-b5ec59f0d5af" />
 
